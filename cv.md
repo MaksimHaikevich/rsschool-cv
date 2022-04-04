@@ -8,9 +8,6 @@ Belarus
 
 BSU
 ---------
-IT-INCUBATOR, MINSK– React JS Developer
-March 2021 – November 2021
-
 2017-2021
 :   **Software Engineer**; Belarusian State University,MINSK
 
